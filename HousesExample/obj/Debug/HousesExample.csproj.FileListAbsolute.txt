@@ -1,1 +1,6 @@
 C:\Users\WeCanCodeIT\Documents\Tech Interview Code\HousesExample\HousesExample\bin\Debug\HousesExample.exe.config
+C:\Users\WeCanCodeIT\Documents\Tech Interview Code\HousesExample\HousesExample\bin\Debug\HousesExample.exe
+C:\Users\WeCanCodeIT\Documents\Tech Interview Code\HousesExample\HousesExample\bin\Debug\HousesExample.pdb
+C:\Users\WeCanCodeIT\Documents\Tech Interview Code\HousesExample\HousesExample\obj\Debug\HousesExample.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Tech Interview Code\HousesExample\HousesExample\obj\Debug\HousesExample.exe
+C:\Users\WeCanCodeIT\Documents\Tech Interview Code\HousesExample\HousesExample\obj\Debug\HousesExample.pdb
